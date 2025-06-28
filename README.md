@@ -1,3 +1,1 @@
 # osTicket
-
-Rr vkr
