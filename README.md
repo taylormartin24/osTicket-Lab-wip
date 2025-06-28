@@ -1,1 +1,1 @@
-# osTicketjbb
+# osTicket
