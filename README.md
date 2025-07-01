@@ -7,8 +7,13 @@ In this experience I installed and configured osTicket in a Microsoft Azure Virt
 - Remote Desktop
 - Windows 11 Pro
 
+## Create Virtual Machine
+
+
 ## Download and Installation
 
+
 ## Configuration
+
 
 ## Usage
