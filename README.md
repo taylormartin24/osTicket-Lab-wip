@@ -2,7 +2,7 @@
 # osTicket Experience
 In this experience I installed and configured osTicket in a Microsoft Azure Virtual Machine as well as implemented the ticketing software.
 
-## Technologies Used
+## Technologies and Tools Used
 - Microsoft Azure (Virtual Machine)
 - Remote Desktop
 - Windows 11 Pro
