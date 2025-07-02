@@ -6,6 +6,7 @@ In this lab, I installed and configured osTicket on a Microsoft Azure Virtual Ma
 - Microsoft Azure (Virtual Machine)
 - Remote Desktop
 - Windows 11 Pro
+- osTicket
 
 ## Create Virtual Machine
 
