@@ -1,13 +1,5 @@
 ![Clzj7Xs](https://github.com/user-attachments/assets/8f4c9483-8df2-4a66-898a-2d48c6f67c55)
 # osTicket
-In this lab, I installed and configured osTicket on a Microsoft Azure Virtual Machine, as well as implemented the ticketing software.
-
-In this lab, I installed and configured osTicket on a Microsoft Azure Virtual Machine, as well as got hands-on learning with the ticketing software.
-
-In this lab, I installed and configured osTicket on a Microsoft Azure Virtual Machine, as well as gained practical experience with the ticketing software.
-In this lab, I installed and configured osTicket on a Microsoft Azure Virtual Machine, as well as recieved practical experience with the ticketing software.
-
-In this lab, I installed and configured osTicket on a Microsoft Azure Virtual Machine and received real-world experience with the ticketing software.
 In this lab, I installed and configured osTicket on a Microsoft Azure Virtual Machine and gained real-world experience with the ticketing software.
 
 ## Technologies and Tools Used
