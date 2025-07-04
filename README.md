@@ -11,7 +11,7 @@ In this lab, I installed and configured osTicket on a Microsoft Azure Virtual Ma
 
 ## Create Virtual Machine
 <img width="1280" alt="Create VM" src="https://github.com/user-attachments/assets/f919cb84-72fe-45fe-8643-e36741b73971" />
-
+Created the virtual machine in Microsoft Azure. I also created the resource name, virtual machine's name and the virtual machine's image. As well as how powerful the virtual machine is such as how many cpu and ram it has.
 
 ## Download and Installation
 
