@@ -8,6 +8,8 @@ In this lab, I installed and configured osTicket on a Microsoft Azure Virtual Ma
 - Windows 11 Pro
 - osTicket
 - Internet Information Services
+- PHP Manager
+- MySQL
 
 ## Create Virtual Machine
 <img width="1280" alt="Create VM" src="https://github.com/user-attachments/assets/f919cb84-72fe-45fe-8643-e36741b73971" />
@@ -15,7 +17,22 @@ Created the virtual machine in Microsoft Azure. I also created the resource name
 
 ## Download and Installation
 (Picture here)
-Downloading and installing osTicket software.
+Downloading and installing the osTicket software.
+
+(Picture here)
+Installing/Enabling IIS
+
+(Picture here)
+Installing PHP Manager for IIS
+
+(Picture here)
+Creating directory
+
+(Picture here)
+Installing and configuring MySQL
+
+(Picture here)
+Register PHP from within IIS
 
 ## Configuration
 (Picture here)
