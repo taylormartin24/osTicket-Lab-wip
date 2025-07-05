@@ -14,7 +14,8 @@ In this lab, I installed and configured osTicket on a Microsoft Azure Virtual Ma
 Created the virtual machine in Microsoft Azure. I also created the resource name, the virtual machine's name, and the virtual machine's image. In addition to the size of the virtual machine, such as the number of vCPUs and memory it has. I left the other settings at default or auto-create.
 
 ## Download and Installation
-
+(Picture here)
+Downloading and installing osTicket software.
 
 ## Configuration
 
