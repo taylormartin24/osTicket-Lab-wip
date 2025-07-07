@@ -7,7 +7,7 @@ In this lab, I installed and configured osTicket on a Microsoft Azure Virtual Ma
 - Remote Desktop
 - Windows 11 Pro
 - osTicket
-- Internet Information Services
+- Internet Information Services (IIS)
 - PHP Manager
 - MySQL
 
@@ -16,11 +16,12 @@ In this lab, I installed and configured osTicket on a Microsoft Azure Virtual Ma
 Created the virtual machine in Microsoft Azure. I also created the resource name, the virtual machine's name, and the virtual machine's image. Additionally, I selected the size of the virtual machine, including the number of vCPUs and memory it will have. I left the other settings at their default or auto-create settings.
 
 ## Download and Installation
-(Picture here)
-Downloading and installing the osTicket software.
+<img width="845" alt="IIS Enable" src="https://github.com/user-attachments/assets/5071c146-9d06-4790-942c-2dcb20e4a2f0" />
+
+I had to enable IIS and CGI in the Control Panel to set up the web server.
 
 (Picture here)
-Installing/Enabling IIS
+Downloading and installing the osTicket software.
 
 (Picture here)
 Installing PHP Manager for IIS
