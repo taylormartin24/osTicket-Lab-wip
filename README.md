@@ -9,6 +9,7 @@ In this lab, I installed and configured osTicket on a Microsoft Azure Virtual Ma
 - osTicket
 - Internet Information Services (IIS)
 - PHP Manager
+- IIS URL Rewrite Module 2
 - MySQL
 
 ## Create Virtual Machine
@@ -21,10 +22,10 @@ Created the virtual machine in Microsoft Azure. I also created the resource name
 I had to enable IIS and CGI in the Control Panel to set up the web server.
 
 (Picture here)
-Downloading and installing the osTicket software.
-
-(Picture here)
 Installing PHP Manager for IIS
+
+(Pic)
+Installed IIS URL Rewrite Module 2
 
 (Picture here)
 Creating directory
@@ -34,6 +35,9 @@ Installing and configuring MySQL
 
 (Picture here)
 Register PHP from within IIS
+
+(Picture here)
+Downloading and installing the osTicket software.
 
 ## Configuration
 (Picture here)
