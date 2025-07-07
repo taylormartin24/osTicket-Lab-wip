@@ -23,11 +23,11 @@ I had to enable IIS and CGI in the Control Panel to set up the web server.
 
 <img width="391" alt="Install PHP Manager" src="https://github.com/user-attachments/assets/7456cce0-5fae-4508-a0a0-7ebc8f711673" />
 
-Installing PHP Manager for IIS
+Installed PHP Manager for IIS.
 
 <img width="387" alt="Install Rewrite Module" src="https://github.com/user-attachments/assets/eef9e450-2365-443b-a271-ea52d0154b7b" />
 
-Installed IIS URL Rewrite Module 2
+Installed IIS URL Rewrite Module 2 for IIS.
 
 (Picture here)
 Creating directory
