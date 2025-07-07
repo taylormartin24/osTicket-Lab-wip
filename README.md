@@ -11,6 +11,7 @@ In this lab, I installed and configured osTicket on a Microsoft Azure Virtual Ma
 - PHP Manager
 - IIS URL Rewrite Module 2
 - MySQL
+- IIS Manager
 
 ## Create Virtual Machine
 <img width="1280" alt="Create VM" src="https://github.com/user-attachments/assets/f919cb84-72fe-45fe-8643-e36741b73971" />
@@ -29,14 +30,17 @@ Installed PHP Manager for IIS.
 
 Installed IIS URL Rewrite Module 2 for IIS.
 
-(Picture here)
-Creating directory
+<img width="387" alt="MySQL Install" src="https://github.com/user-attachments/assets/a54d4568-9b48-4b34-b3c2-a13a0289b2a1" />
 
-(Picture here)
-Installing and configuring MySQL
+Installed MySQL.
 
-(Picture here)
-Register PHP from within IIS
+<img width="375" alt="MySQL Config" src="https://github.com/user-attachments/assets/c5c479a0-d559-43db-a443-4e81f14c4120" />
+
+Configured MySQL.
+
+<img width="949" alt="PHP Register" src="https://github.com/user-attachments/assets/819d8b46-7ffb-4770-a949-eb8d2dd5ece1" />
+
+Registered PHP from within the IIS Manager.
 
 (Picture here)
 Downloading and installing the osTicket software.
