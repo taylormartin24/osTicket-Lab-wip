@@ -17,7 +17,7 @@ In this lab, I installed and configured osTicket on a Microsoft Azure Virtual Ma
 <img width="1280" alt="Create VM" src="https://github.com/user-attachments/assets/f919cb84-72fe-45fe-8643-e36741b73971" />
 Created the virtual machine in Microsoft Azure. I also created the resource name, the virtual machine's name, and the virtual machine's image. Additionally, I selected the size of the virtual machine, including the number of vCPUs and memory it will have. I left the other settings at their default or auto-create settings.
 
-## Download and Installation
+## Virtual Machine Setup for osTicket
 <img width="845" alt="IIS Enable" src="https://github.com/user-attachments/assets/5071c146-9d06-4790-942c-2dcb20e4a2f0" />
 
 I had to enable IIS and CGI in the Control Panel to set up the web server.
@@ -42,10 +42,11 @@ Configured MySQL.
 
 Registered PHP from within the IIS Manager.
 
+## Download and Installation of osTicket
 (Picture here)
 Downloading and installing the osTicket software.
 
-## Configuration
+## Configuration of osTicket
 (Picture here)
 
 ## Usage
