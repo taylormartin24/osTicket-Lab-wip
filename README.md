@@ -28,7 +28,7 @@ Installed PHP Manager for IIS.
 
 <img width="387" alt="Install Rewrite Module" src="https://github.com/user-attachments/assets/eef9e450-2365-443b-a271-ea52d0154b7b" />
 
-Installed IIS URL Rewrite Module 2 for IIS.
+Installed the IIS URL Rewrite Module 2 for IIS.
 
 <img width="387" alt="MySQL Install" src="https://github.com/user-attachments/assets/a54d4568-9b48-4b34-b3c2-a13a0289b2a1" />
 
@@ -43,8 +43,27 @@ Configured MySQL.
 Registered PHP from within the IIS Manager.
 
 ## Download and Installation of osTicket
-(Picture here)
-Downloading and installing the osTicket software.
+<img width="1280" height="764" alt="open osticket installer in iis" src="https://github.com/user-attachments/assets/e4c9de45-df2f-430a-b5bd-c182cbe980c5" />
+Opened the osTicker installer in the IIS Manager.
+
+<img width="949" height="552" alt="enabled php extensions" src="https://github.com/user-attachments/assets/47885d70-1cb9-4ffe-824c-29dbd82003f7" />
+
+Went into the IIS Manager and enabled the PHP extensions that are needed for osTicket, such as:
+- 1
+- 2
+- 3
+
+<img width="449" height="339" alt="installed HeidiSQL" src="https://github.com/user-attachments/assets/2a8a37b8-3f01-42da-bdeb-13b4713f9a8a" />
+
+Installed HeidiSQL setup wizard.
+
+<img width="1280" height="764" alt="osticket setup info" src="https://github.com/user-attachments/assets/3dd00030-6839-4cf8-a274-c45ed1652a12" />
+
+Filled in the basic information to set up osTicket.
+
+<img width="1280" height="764" alt="installed osticket" src="https://github.com/user-attachments/assets/b471585b-d623-4071-b4a8-7c55047149fc" />
+
+Installed osTicket.
 
 ## Configuration of osTicket
 (Picture here)
