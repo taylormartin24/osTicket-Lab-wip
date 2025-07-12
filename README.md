@@ -62,21 +62,28 @@ Installed osTicket.
 
 ## Configuration of osTicket
 Created a Role.
-
-Created a Team.
+<img width="1280" height="764" alt="Created a Role" src="https://github.com/user-attachments/assets/d2ab88b3-3b43-47e4-b2ff-51322d4bb40e" />
 
 Created a Department.
+<img width="1280" height="764" alt="Created a Department" src="https://github.com/user-attachments/assets/cb83a0bb-df6f-4408-9daa-9a2c3060f7a8" />
+
+Created a Team.
+<img width="1280" height="764" alt="Created a Team" src="https://github.com/user-attachments/assets/6e43adac-3aed-4742-81cb-e57b2a3d0d0e" />
 
 Added Agent Jane.
+<img width="1280" height="764" alt="Agent Jane" src="https://github.com/user-attachments/assets/d448f7c7-3107-4c74-b9f4-a1082e89ade0" />
 
 Added Agent John.
+<img width="1280" height="764" alt="Agent John" src="https://github.com/user-attachments/assets/eedce56b-9aab-41a7-97b0-f433881fdb72" />
 
 Created User Karen.
+<img width="1280" height="764" alt="User Karen" src="https://github.com/user-attachments/assets/23a615b2-be16-4480-97c1-c2899994edca" />
 
 Configured SLAs.
 - 1
 - 2
 - 3
+<img width="1280" height="764" alt="Configured SLAs" src="https://github.com/user-attachments/assets/fd7f8054-b698-4e69-ae2b-a2f1c282c94f" />
 
 Configured Help Topics.
 - 1
@@ -85,5 +92,6 @@ Configured Help Topics.
 - 4
 - 5
 - 6
+<img width="1280" height="764" alt="Configured Help Topics" src="https://github.com/user-attachments/assets/1c5cd288-8bc2-4137-b6d5-039be091ec48" />
 
 ## Usage
