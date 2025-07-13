@@ -45,9 +45,9 @@ Opened the osTicker installer in the IIS Manager.
 <img width="1280" height="764" alt="open osticket installer in iis" src="https://github.com/user-attachments/assets/e4c9de45-df2f-430a-b5bd-c182cbe980c5" />
 
 Went into the IIS Manager and enabled the PHP extensions that are needed for osTicket, such as:
-- 1
-- 2
-- 3
+- php_imap.dll
+- php_intl.dll
+- php_opcache.dll
 <img width="949" height="552" alt="enabled php extensions" src="https://github.com/user-attachments/assets/47885d70-1cb9-4ffe-824c-29dbd82003f7" />
 
 Installed HeidiSQL setup wizard.
@@ -61,37 +61,36 @@ Installed osTicket.
 <img width="1280" height="764" alt="installed osticket" src="https://github.com/user-attachments/assets/b471585b-d623-4071-b4a8-7c55047149fc" />
 
 ## Configuration of osTicket
-Created a Role.
+Created a Role with the name 'Supreme Admin' and gave it full permissions.
 <img width="1280" height="764" alt="Created a Role" src="https://github.com/user-attachments/assets/d2ab88b3-3b43-47e4-b2ff-51322d4bb40e" />
 
-Created a Department.
+Created a Department called 'SysAdmins'.
 <img width="1280" height="764" alt="Created a Department" src="https://github.com/user-attachments/assets/cb83a0bb-df6f-4408-9daa-9a2c3060f7a8" />
 
-Created a Team.
+Created a Team called 'Online Banking'.
 <img width="1280" height="764" alt="Created a Team" src="https://github.com/user-attachments/assets/6e43adac-3aed-4742-81cb-e57b2a3d0d0e" />
 
-Added Agent Jane.
+Added an Agent called Jane to the system.
 <img width="1280" height="764" alt="Agent Jane" src="https://github.com/user-attachments/assets/d448f7c7-3107-4c74-b9f4-a1082e89ade0" />
 
-Added Agent John.
+Added an Agent called John to the system.
 <img width="1280" height="764" alt="Agent John" src="https://github.com/user-attachments/assets/eedce56b-9aab-41a7-97b0-f433881fdb72" />
 
-Created User Karen.
+Created a User in the system named Karen.
 <img width="1280" height="764" alt="User Karen" src="https://github.com/user-attachments/assets/23a615b2-be16-4480-97c1-c2899994edca" />
 
-Configured SLAs.
-- 1
-- 2
-- 3
+Created some SLAs:
+- Sev-A (Grace Period: 1 hour, Schedule: 24/7)
+- Sev-B (Grace Period: 4 hours, Schedule: 24/7)
+- Sev-C (Grace Period: 8 hours, Schedule: Business Hours)
 <img width="1280" height="764" alt="Configured SLAs" src="https://github.com/user-attachments/assets/fd7f8054-b698-4e69-ae2b-a2f1c282c94f" />
 
-Configured Help Topics.
-- 1
-- 2
-- 3
-- 4
-- 5
-- 6
+Created a few Help Topics:
+- Business Critical Outage
+- Personal Computer Issues
+- Equipment Request
+- Password Reset
+- Other
 <img width="1280" height="764" alt="Configured Help Topics" src="https://github.com/user-attachments/assets/1c5cd288-8bc2-4137-b6d5-039be091ec48" />
 
 ## Usage
