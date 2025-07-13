@@ -88,7 +88,7 @@ Created some SLAs:
 Created a few Help Topics:
 - Business Critical Outage
 - Personal Computer Issues
-- Equipment Request
+- Equipment Inquiry
 - Password Reset
 - Other
 <img width="1280" height="764" alt="Configured Help Topics" src="https://github.com/user-attachments/assets/1c5cd288-8bc2-4137-b6d5-039be091ec48" />
