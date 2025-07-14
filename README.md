@@ -105,10 +105,10 @@ In this part of the lab, I simulate the problems users would encounter and the s
 Karen created a new support ticket because their banking system was not allowing their customers to access their online accounts.
 <img width="1280" height="764" alt="Karen created banking ticket" src="https://github.com/user-attachments/assets/e5e587a5-ec58-42a0-aa08-c3ca43306166" />
 
-John worked on the supprot ticket by:
-1. a
-2. a
-3. a
+John worked on the support ticket by:
+1. Changing the SLA from default to Sev-A
+2. Changing the Help Topic from Report a Problem to Business Critical Outage
+3. Assigning the ticket to the Online Banking Team
 <img width="1280" height="764" alt="John worked banking ticket" src="https://github.com/user-attachments/assets/fb97ef21-fc26-41dd-82a8-5ec975334dc6" />
 
 Jane worked and completed banking system ticket
