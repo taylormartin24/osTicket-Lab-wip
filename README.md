@@ -14,11 +14,11 @@ In this lab, I installed and configured osTicket on a Microsoft Azure Virtual Ma
 - IIS Manager
 
 ## Create Virtual Machine
-Created the virtual machine in Microsoft Azure. I also made the resource name, the virtual machine's name, and the virtual machine's image. Additionally, I selected the size of the virtual machine, including the number of vCPUs and memory it will have. I left the other settings at their default or auto-create settings.
+In this part of the lab, I created the virtual machine in Microsoft Azure. I also renamed the resource group and the virtual machine, and selected the virtual machine's image. Additionally, I selected the size of the virtual machine, including the number of vCPUs and the amount of memory it will have. I left the other settings at their default or auto-create settings.
 <img width="1280" alt="Create VM" src="https://github.com/user-attachments/assets/f919cb84-72fe-45fe-8643-e36741b73971" />
 
 ## Virtual Machine Setup for osTicket
-In this part of the lab, I had to download and install various other programs that are needed to allow osTicket to work.
+In this part of the lab, I had to download and install various other programs that are necessary for osTicket to function.
 
 I had to enable IIS and CGI in the Control Panel to set up the web server.
 <img width="845" alt="IIS Enable" src="https://github.com/user-attachments/assets/5071c146-9d06-4790-942c-2dcb20e4a2f0" />
@@ -65,7 +65,7 @@ Installed osTicket.
 <img width="1280" height="764" alt="installed osticket" src="https://github.com/user-attachments/assets/b471585b-d623-4071-b4a8-7c55047149fc" />
 
 ## Configuration of osTicket
-In this part of the lab, I had to set up the basic features of osTicket in order to gain hands-on experience with how a ticketing system is used.
+In this part of the lab, I had to set up the basic features of osTicket to gain hands-on experience with how a ticketing system is used.
 
 Created a Role with the name 'Supreme Admin' and gave it full permissions.
 <img width="1280" height="764" alt="Created a Role" src="https://github.com/user-attachments/assets/d2ab88b3-3b43-47e4-b2ff-51322d4bb40e" />
@@ -76,10 +76,10 @@ Created a Department called 'SysAdmins'.
 Created a Team called 'Online Banking'.
 <img width="1280" height="764" alt="Created a Team" src="https://github.com/user-attachments/assets/6e43adac-3aed-4742-81cb-e57b2a3d0d0e" />
 
-Added an Agent called Jane to the system.
+Added an Agent called Jane to the system and added her to the ____ team.
 <img width="1280" height="764" alt="Agent Jane" src="https://github.com/user-attachments/assets/d448f7c7-3107-4c74-b9f4-a1082e89ade0" />
 
-Added an Agent called John to the system.
+Added an Agent called John to the system and added him to the ____ team.
 <img width="1280" height="764" alt="Agent John" src="https://github.com/user-attachments/assets/eedce56b-9aab-41a7-97b0-f433881fdb72" />
 
 Created a User in the system named Karen.
@@ -111,17 +111,29 @@ John worked on the support ticket by:
 3. Assigning the ticket to the Online Banking Team
 <img width="1280" height="764" alt="John worked banking ticket" src="https://github.com/user-attachments/assets/fb97ef21-fc26-41dd-82a8-5ec975334dc6" />
 
-Jane worked and completed banking system ticket
+Jane worked on and completed the banking system support ticket by:
+1. Assigning the support ticket to herself from the Online Banking Team
+2. Telling the customer what the problem might be and looking into it
+3. Telling the customer what the problem was, implemented a temporary solution, and that she is looking for a proper fix
+4. Changed the status of the ticket to resolved
 <img width="1280" height="764" alt="Jane worked and completed banking ticket" src="https://github.com/user-attachments/assets/cb257178-a0de-44b7-954c-1470cea30bcf" />
 
-Ken created adobe ticket
+Ken created a new support ticket because some of his accounting staff were unable to access their Adobe software.
 <img width="1280" height="764" alt="Ken created adobe ticket" src="https://github.com/user-attachments/assets/fb6860ac-92a0-462a-bb86-a9b76cdf0c18" />
 
-John worked and completed Adobe ticket
+John worked on and completed the Adobe support ticket by:
+1. Changing the SLA from default to Sev-C
+2. Claiming the support ticket
+3. Giving Ken a solution for the problem and waiting to hear if it worked
+4. Finding out that the solution worked and changing the ticket status to resolved
 <img width="1280" height="764" alt="John worked and completed adobe ticket" src="https://github.com/user-attachments/assets/2db17f8e-6d96-48ab-ad83-71dc3892c00b" />
 
-Karen created laptop ticket
+Karen created a new support ticket because the CTO's laptop would not turn on.
 <img width="1280" height="764" alt="Karen created laptop ticket" src="https://github.com/user-attachments/assets/12e9713d-78aa-46f4-8ce9-e61fb2f833b8" />
 
-John worked and completed the laptop ticket
+John worked on and completed the laptop support ticket by:
+1. Changing the priority level from normal to emergency
+2. Changing the SLA from default to Sev-B
+3. Giving the solution that the charger may be broken, so they should get a new one
+4. Finding out that was the problem and changing the status to resolved
 <img width="1280" height="764" alt="John worked and completed laptop ticket" src="https://github.com/user-attachments/assets/d366e0fb-c84a-4f50-ae89-6817dbb4bf1f" />
