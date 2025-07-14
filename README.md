@@ -94,3 +94,16 @@ Created a few Help Topics:
 <img width="1280" height="764" alt="Configured Help Topics" src="https://github.com/user-attachments/assets/1c5cd288-8bc2-4137-b6d5-039be091ec48" />
 
 ## Usage
+Karen created banking system ticket
+
+John worked on banking system ticket
+
+Jane worked and completed banking system ticket
+
+Ken created adobe ticket
+
+John worked and completed adobe ticket
+
+Karen created laptop ticket
+
+John worked and completed laptop ticket
