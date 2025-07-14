@@ -102,13 +102,13 @@ Created a few Help Topics:
 ## Usage
 In this part of the lab, I simulate the problems users would encounter and the steps required to solve them.
 
-Karen created a new support ticket because their banking system was not allowing their customers to access their online accounts..
+Karen created a new support ticket because their banking system was not allowing their customers to access their online accounts.
 <img width="1280" height="764" alt="Karen created banking ticket" src="https://github.com/user-attachments/assets/e5e587a5-ec58-42a0-aa08-c3ca43306166" />
 
 John worked on the supprot ticket by:
-1. 
-2. 
-3.
+1. a
+2. a
+3. a
 <img width="1280" height="764" alt="John worked banking ticket" src="https://github.com/user-attachments/assets/fb97ef21-fc26-41dd-82a8-5ec975334dc6" />
 
 Jane worked and completed banking system ticket
@@ -117,11 +117,11 @@ Jane worked and completed banking system ticket
 Ken created adobe ticket
 <img width="1280" height="764" alt="Ken created adobe ticket" src="https://github.com/user-attachments/assets/fb6860ac-92a0-462a-bb86-a9b76cdf0c18" />
 
-John worked and completed adobe ticket
+John worked and completed Adobe ticket
 <img width="1280" height="764" alt="John worked and completed adobe ticket" src="https://github.com/user-attachments/assets/2db17f8e-6d96-48ab-ad83-71dc3892c00b" />
 
 Karen created laptop ticket
 <img width="1280" height="764" alt="Karen created laptop ticket" src="https://github.com/user-attachments/assets/12e9713d-78aa-46f4-8ce9-e61fb2f833b8" />
 
-John worked and completed laptop ticket
+John worked and completed the laptop ticket
 <img width="1280" height="764" alt="John worked and completed laptop ticket" src="https://github.com/user-attachments/assets/d366e0fb-c84a-4f50-ae89-6817dbb4bf1f" />
