@@ -14,10 +14,12 @@ In this lab, I installed and configured osTicket on a Microsoft Azure Virtual Ma
 - IIS Manager
 
 ## Create Virtual Machine
-Created the virtual machine in Microsoft Azure. I also created the resource name, the virtual machine's name, and the virtual machine's image. Additionally, I selected the size of the virtual machine, including the number of vCPUs and memory it will have. I left the other settings at their default or auto-create settings.
+Created the virtual machine in Microsoft Azure. I also made the resource name, the virtual machine's name, and the virtual machine's image. Additionally, I selected the size of the virtual machine, including the number of vCPUs and memory it will have. I left the other settings at their default or auto-create settings.
 <img width="1280" alt="Create VM" src="https://github.com/user-attachments/assets/f919cb84-72fe-45fe-8643-e36741b73971" />
 
 ## Virtual Machine Setup for osTicket
+In this part of the lab, I had to download and install various other programs that are needed to allow osTicket to work.
+
 I had to enable IIS and CGI in the Control Panel to set up the web server.
 <img width="845" alt="IIS Enable" src="https://github.com/user-attachments/assets/5071c146-9d06-4790-942c-2dcb20e4a2f0" />
 
@@ -41,6 +43,8 @@ Registered PHP from within the IIS Manager.
 <img width="949" alt="PHP Register" src="https://github.com/user-attachments/assets/819d8b46-7ffb-4770-a949-eb8d2dd5ece1" />
 
 ## Download and Installation of osTicket
+In this part of the lab, I had to configure some of the previously downloaded programs to allow osTicket to work correctly.
+
 Opened the osTicker installer in the IIS Manager.
 <img width="1280" height="764" alt="open osticket installer in iis" src="https://github.com/user-attachments/assets/e4c9de45-df2f-430a-b5bd-c182cbe980c5" />
 
@@ -61,6 +65,8 @@ Installed osTicket.
 <img width="1280" height="764" alt="installed osticket" src="https://github.com/user-attachments/assets/b471585b-d623-4071-b4a8-7c55047149fc" />
 
 ## Configuration of osTicket
+In this part of the lab, I had to set up the basic features of osTicket in order to gain hands-on experience with how a ticketing system is used.
+
 Created a Role with the name 'Supreme Admin' and gave it full permissions.
 <img width="1280" height="764" alt="Created a Role" src="https://github.com/user-attachments/assets/d2ab88b3-3b43-47e4-b2ff-51322d4bb40e" />
 
@@ -94,10 +100,15 @@ Created a few Help Topics:
 <img width="1280" height="764" alt="Configured Help Topics" src="https://github.com/user-attachments/assets/1c5cd288-8bc2-4137-b6d5-039be091ec48" />
 
 ## Usage
-Karen created banking system ticket
+In this part of the lab, I simulate the problems users would encounter and the steps required to solve them.
+
+Karen created a new support ticket because their banking system was not allowing their customers to access their online accounts..
 <img width="1280" height="764" alt="Karen created banking ticket" src="https://github.com/user-attachments/assets/e5e587a5-ec58-42a0-aa08-c3ca43306166" />
 
-John worked on banking system ticket
+John worked on the supprot ticket by:
+1. 
+2. 
+3.
 <img width="1280" height="764" alt="John worked banking ticket" src="https://github.com/user-attachments/assets/fb97ef21-fc26-41dd-82a8-5ec975334dc6" />
 
 Jane worked and completed banking system ticket
