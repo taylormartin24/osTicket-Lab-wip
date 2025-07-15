@@ -12,6 +12,7 @@ In this lab, I installed and configured osTicket on a Microsoft Azure Virtual Ma
 - IIS URL Rewrite Module 2
 - MySQL
 - IIS Manager
+- HeidiSQL
 
 ## Create Virtual Machine
 In this part of the lab, I created the virtual machine in Microsoft Azure. I also renamed the resource group and the virtual machine, and selected the virtual machine's image. Additionally, I selected the size of the virtual machine, including the number of vCPUs and the amount of memory it will have. I left the other settings at their default or auto-create settings.
@@ -31,7 +32,7 @@ Installed the IIS URL Rewrite Module 2 for IIS.
 
 <img width="387" alt="Install Rewrite Module" src="https://github.com/user-attachments/assets/eef9e450-2365-443b-a271-ea52d0154b7b" />
 
-Installed MySQL.
+Installed MySQL so that osTicket has a database to store all the accounts and tickets in.
 
 <img width="387" alt="MySQL Install" src="https://github.com/user-attachments/assets/a54d4568-9b48-4b34-b3c2-a13a0289b2a1" />
 
@@ -39,7 +40,7 @@ Configured MySQL.
 
 <img width="375" alt="MySQL Config" src="https://github.com/user-attachments/assets/c5c479a0-d559-43db-a443-4e81f14c4120" />
 
-Registered PHP from within the IIS Manager.
+Registered the PHP executable from within the IIS Manager.
 <img width="949" alt="PHP Register" src="https://github.com/user-attachments/assets/819d8b46-7ffb-4770-a949-eb8d2dd5ece1" />
 
 ## Download and Installation of osTicket
@@ -54,7 +55,7 @@ Went into the IIS Manager and enabled the PHP extensions that are needed for osT
 - php_opcache.dll
 <img width="949" height="552" alt="enabled php extensions" src="https://github.com/user-attachments/assets/47885d70-1cb9-4ffe-824c-29dbd82003f7" />
 
-Installed HeidiSQL setup wizard.
+Installed HeidiSQL setup wizard to connect to the MySQL database.
 
 <img width="449" height="339" alt="installed HeidiSQL" src="https://github.com/user-attachments/assets/2a8a37b8-3f01-42da-bdeb-13b4713f9a8a" />
 
