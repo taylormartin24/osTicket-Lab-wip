@@ -100,7 +100,7 @@ Created a few Help Topics:
 <img width="1280" height="764" alt="Configured Help Topics" src="https://github.com/user-attachments/assets/1c5cd288-8bc2-4137-b6d5-039be091ec48" />
 
 ## Usage
-In this part of the lab, I simulate the problems users would encounter and the steps required to solve them.
+In this part of the lab, I simulate the problems users would encounter and the steps I used as the agents to solve them.
 
 Karen created a new support ticket because their banking system was not allowing their customers to access their online accounts.
 <img width="1280" height="764" alt="Karen created banking ticket" src="https://github.com/user-attachments/assets/e5e587a5-ec58-42a0-aa08-c3ca43306166" />
