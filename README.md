@@ -76,10 +76,10 @@ Created a Department called 'SysAdmins'.
 Created a Team called 'Online Banking'.
 <img width="1280" height="764" alt="Created a Team" src="https://github.com/user-attachments/assets/6e43adac-3aed-4742-81cb-e57b2a3d0d0e" />
 
-Added an Agent called Jane to the system and added her to the ____ team.
+Added an agent named Jane to the system and assigned her to the Online Banking team.
 <img width="1280" height="764" alt="Agent Jane" src="https://github.com/user-attachments/assets/d448f7c7-3107-4c74-b9f4-a1082e89ade0" />
 
-Added an Agent called John to the system and added him to the ____ team.
+Added an agent named John to the system and assigned him to the Support team.
 <img width="1280" height="764" alt="Agent John" src="https://github.com/user-attachments/assets/eedce56b-9aab-41a7-97b0-f433881fdb72" />
 
 Created a User in the system named Karen.
@@ -137,3 +137,6 @@ John worked on and completed the laptop support ticket by:
 3. Giving the solution that the charger may be broken, so they should get a new one
 4. Finding out that was the problem and changing the status to resolved
 <img width="1280" height="764" alt="John worked and completed laptop ticket" src="https://github.com/user-attachments/assets/d366e0fb-c84a-4f50-ae89-6817dbb4bf1f" />
+
+## Conclusion
+ 
