@@ -138,6 +138,4 @@ John worked on and completed the laptop support ticket by:
 3. Giving the solution that the charger may be broken, so they should get a new one
 4. Finding out that was the problem and changing the status to resolved
 <img width="1280" height="764" alt="John worked and completed laptop ticket" src="https://github.com/user-attachments/assets/d366e0fb-c84a-4f50-ae89-6817dbb4bf1f" />
-
-## Conclusion
  
