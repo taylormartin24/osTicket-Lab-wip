@@ -46,7 +46,7 @@ Registered the PHP executable from within the IIS Manager.
 ## Download and Installation of osTicket
 In this part of the lab, I had to configure some of the previously downloaded programs to allow osTicket to work correctly.
 
-Opened the osTicker installer in the IIS Manager.
+Opened the osTicket installer in the IIS Manager.
 <img width="1280" height="764" alt="open osticket installer in iis" src="https://github.com/user-attachments/assets/e4c9de45-df2f-430a-b5bd-c182cbe980c5" />
 
 Went into the IIS Manager and enabled the PHP extensions that are needed for osTicket, such as:
